@@ -7,6 +7,10 @@ p{
 
 a.nav-link{
     color: gray;
+    font-weight: 400;
+    padding: 10px;
+
+    font-size: 18px;
 }
 .buy-now-btn{
     padding: 10px 30px;
